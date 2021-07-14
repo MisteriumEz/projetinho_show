@@ -1,6 +1,6 @@
 # projetinho_show
 
-A new Flutter project.
+Um projeto para estudos.
 
 ## Getting Started
 
